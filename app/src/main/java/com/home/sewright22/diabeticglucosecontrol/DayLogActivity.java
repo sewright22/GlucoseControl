@@ -36,7 +36,7 @@ public class DayLogActivity extends AppCompatActivity {
     ListView listView;
     /**
      * ATTENTION: This was auto-generated to implement the App Indexing API.
-     * See https://g.co/AppIndexing/AndroidStudio for more information.
+     * See https://g.co/AppIndexing/AndroidStudio for more information.j
      */
     private GoogleApiClient client;
     @Override
